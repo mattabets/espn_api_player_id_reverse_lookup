@@ -22,7 +22,7 @@ from espn_api_player_id_reverse_lookup import espn_api_player_id_reverse_lookup
 
 # Call the function with the desired player name
 player_name = 'Patrick Mahomes'
-player_id = get_player_id(player_name)
+player_id = espn_api_player_id_reverse_lookup(player_name)
 
 # Print the player ID if found
 if player_id:
