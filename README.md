@@ -18,7 +18,7 @@ This Python function retrieves the unique identifier (ID) of an NFL player given
 
 ```python
 # Import the function
-from get_player_id import get_player_id
+from espn_api_player_id_reverse_lookup import espn_api_player_id_reverse_lookup
 
 # Call the function with the desired player name
 player_name = 'Patrick Mahomes'
