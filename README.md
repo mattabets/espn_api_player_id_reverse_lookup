@@ -42,15 +42,15 @@ else:
 ```
 project-root/
 │
-├── get_player_id.py        # Python script containing the `get_player_id` function
+├── get_player_id.py        # Python script containing the `espn_api_player_id_reverse_lookup` function
 └── README.md                # Documentation providing information about the function
 ```
 
 ### Installation:
 
-1. Clone the repository or download the `get_player_id.py` file.
+1. Clone the repository or download the `espn_api_player_id_reverse_lookup.py` file.
 2. Ensure that the `requests` library is installed in your Python environment (`pip install requests`).
-3. Import the `get_player_id` function into your Python script.
+3. Import the `espn_api_player_id_reverse_lookup` function into your Python script.
 4. Call the function with the desired player name to retrieve the player's ID.
 
 ### Additional Notes:
