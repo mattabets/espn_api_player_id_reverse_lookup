@@ -1,4 +1,4 @@
-### Function Documentation: `get_player_id`
+### Function Documentation: `espn_api_player_id_reverse_lookup`
 
 This Python function retrieves the unique identifier (ID) of an NFL player given their full name. The function utilizes the ESPN API to fetch data about NFL teams and their respective rosters.
 
