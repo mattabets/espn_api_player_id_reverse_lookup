@@ -42,7 +42,7 @@ else:
 ```
 project-root/
 │
-├── get_player_id.py        # Python script containing the `espn_api_player_id_reverse_lookup` function
+├── espn_api_player_id_reverse_lookup.py        # Python script containing the `espn_api_player_id_reverse_lookup` function
 └── README.md                # Documentation providing information about the function
 ```
 
